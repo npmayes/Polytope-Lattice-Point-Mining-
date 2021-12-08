@@ -1,1 +1,1 @@
-# Polytope-Lattice-Point-Mining-
+# Polytope-Lattice-Point-Mining
